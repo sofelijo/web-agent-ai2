@@ -12,9 +12,17 @@ export default function Home() {
   const [messages, setMessages] = useState<ChatMsg[]>([
     {
       sender: "aska",
-      text: "Haii 👋 aku ASKA 🤖✨, Agent AI super canggih di SDN Semper Barat 01. Siap bantu semua pertanyaanmu!📚✨",
+      text: `Haii 👋 aku ASKA 🤖✨, Agent AI super canggih di SDN Semper Barat 01. Siap bantu semua pertanyaanmu! 📚✨
+
+📝 Bantu ASKA jadi lebih baik dengan isi Form Feedback:  
+[form feedback](https://forms.gle/iddvLkc4dZxxCTNx8)
+
+🤖 Cobain versi Telegram:  
+[@tanyaaska](https://t.me/tanyaaska_bot)`,
     },
   ]);
+
+
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
 
