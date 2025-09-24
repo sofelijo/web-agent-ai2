@@ -142,6 +142,15 @@ export default function Message({ sender, text }: MessageProps) {
                   {children}
                 </a>
               ),
+              ul: ({ node, ...props }) => (
+                <ul className="list-disc pl-5 space-y-1" {...props} />
+              ),
+              ol: ({ node, ...props }) => (
+                <ol className="list-decimal pl-5 space-y-1" {...props} />
+              ),
+              li: ({ node, ...props }) => (
+                <li className="leading-relaxed" {...props} />
+              ),
             }}
           >
             {text}
