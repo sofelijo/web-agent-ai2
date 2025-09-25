@@ -17,7 +17,7 @@ export default function Home() {
 📝 Bantu ASKA jadi lebih baik dengan isi Form Feedback:  
 [form feedback](https://forms.gle/iddvLkc4dZxxCTNx8)
 
-🤖 Cobain versi Telegram:  
+🤖 Versi Telegram (lebih stabil):  
 [@tanyaaska](https://t.me/tanyaaska_bot)
 
 📘 Isi Pengetahuan ASKA :
