@@ -18,7 +18,7 @@ export default function Home() {
 [form feedback](https://forms.gle/iddvLkc4dZxxCTNx8)
 
 🤖 Versi Telegram (lebih stabil):  
-[@tanyaaska](https://t.me/tanyaaska_bot)
+[@tanyaaska_bot](https://t.me/tanyaaska_bot)
 
 📘 Isi Pengetahuan ASKA :
 - Profil sekolah 
